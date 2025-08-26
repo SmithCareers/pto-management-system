@@ -1,0 +1,15 @@
+pto-management-system/
+├── README.md
+├── src/
+│   └── script.gs
+├── docs/
+│   ├── SETUP.md
+│   ├── TRAINING.md
+│   └── DASHBOARD.md
+├── screenshots/
+│   ├── manager-dashboard.png
+│   ├── employee-form.png
+│   ├── pto-balances.png
+│   └── approval-workflow.png
+└── templates/
+    └── sheet-templates.md
