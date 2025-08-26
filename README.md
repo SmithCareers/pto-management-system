@@ -22,3 +22,4 @@ The manager dashboard provides real-time visibility into PTO requests and balanc
 - Status tracking with dropdown controls
 - Automated balance calculations
 - Email notification system
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e981bfe8-0ee9-49ce-aabb-8b48f314c274" />
