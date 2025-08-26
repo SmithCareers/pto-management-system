@@ -18,7 +18,7 @@ Automated time-off request system with Google Apps Script
 ## Overview
 The manager dashboard provides real-time visibility into PTO requests and balances.
 
-![Manager Dashboard](screenshots/manager-dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39e74884-c913-4ee7-a9b3-2614024a305d" />
 
 ## Key Features
 - Status tracking with dropdown controls
